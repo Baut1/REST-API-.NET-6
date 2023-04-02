@@ -1,0 +1,12 @@
+G:\Carpetas Windows\escritorio}\REST API NET 6\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net7.0\BuberBreakfast.Contracts.deps.json
+G:\Carpetas Windows\escritorio}\REST API NET 6\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net7.0\BuberBreakfast.Contracts.dll
+G:\Carpetas Windows\escritorio}\REST API NET 6\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net7.0\BuberBreakfast.Contracts.pdb
+G:\Carpetas Windows\escritorio}\REST API NET 6\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.csproj.AssemblyReference.cache
+G:\Carpetas Windows\escritorio}\REST API NET 6\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+G:\Carpetas Windows\escritorio}\REST API NET 6\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.AssemblyInfoInputs.cache
+G:\Carpetas Windows\escritorio}\REST API NET 6\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.AssemblyInfo.cs
+G:\Carpetas Windows\escritorio}\REST API NET 6\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.csproj.CoreCompileInputs.cache
+G:\Carpetas Windows\escritorio}\REST API NET 6\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.dll
+G:\Carpetas Windows\escritorio}\REST API NET 6\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\refint\BuberBreakfast.Contracts.dll
+G:\Carpetas Windows\escritorio}\REST API NET 6\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.pdb
+G:\Carpetas Windows\escritorio}\REST API NET 6\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\ref\BuberBreakfast.Contracts.dll
